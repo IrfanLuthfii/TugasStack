@@ -58,7 +58,7 @@ int main() {
 		cout << "--------------STACK-------------\n"
 			<< " 1. Add Data\n"
 			<< " 2. Deleted Data \n"
-			<< " 3. Show Dataa \n"
+			<< " 3. Show Data \n"
 			<< " 4. EXIT \n\n"
 			<< "----------------------------------\n"
 			<< "Insert Option : "; cin >> choose;
